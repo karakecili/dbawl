@@ -1,0 +1,58 @@
+{
+  "header": {
+    "onlinePlatform": "Login",
+    "contactSales": "Contact Sales",
+    "business": "Business",
+    "personal": "Personal",
+    "products": "Products",
+    "about": "About",
+    "login": "Login",
+    "joinUs": "Join Us",
+    "letterOfGuarantee": "Letter of Guarantee",
+    "letterOfGuaranteeExplain": "Automate the full life cycle of the Letter Of Guarantee  and enable corporates & banks to exchanges LG actions online.",
+    "accounts": "Accounts",
+    "accountsExplain": "Drive financial transformation in your company with a centralized account information on a single platform.",
+    "paymentsAndTransfers": "Payments and Transfers",
+    "paymentsAndTransfersExplain": "Experience omnichannel platform enabling you to process your payments and transfer across all banks in secure and efficient style."
+  },
+  "contact": {
+    "title": "Contact Sales",
+    "leading": "Fill out the form on the right to get in touch with one of our representatives.",
+    "enterInfo": "Please enter your information",
+    "optionalAsterisk": "*Optional",
+    "workEmail": "Work Email Address",
+    "companyName": "Company Name",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone (please include Country/Region code)",
+    "additionalInfo": "Additional information related to your business needs*",
+    "submit": "Submit",
+    "formAgree1": "By submitting the form, I agree to the ",
+    "formAgree2": "Privacy policy",
+    "messageSent": "Message sent!",
+    "messageFail": "Message failed to send. Please try again later."
+  },
+  "common": {
+    "details": "Details",
+    "features": "Features",
+    "comingSoon": "Coming soon"
+  },
+  "homeFaq": {
+    "title": "FAQ",
+    "faqQuestion1": "Is dbawl licensed and regulated?",
+    "faqAnswer1": "DbaTech, the company behind the dbawl app, is permitted by the Saudi Central Bank under the “SAMA Sandbox environment” to offer multiple products and solutions serving Financial Institutions, Corporates, and individuals.",
+    "faqQuestion2": "As a company, how can we integrate with banks through dbawl?",
+    "faqAnswer2": "We offer two solutions for corporates to connect with their banks though dbawl: <br /><br /> dbawl Business:<br />Our web and mobile application to enable corporates to access and perform a range of features and functions with their banks.<br /><br /><br />dbawl API:<br />dbawl integration solution to enable corporates to submit and receive transactions for their banks using their internal systems.",
+    "faqQuestion3": "Is corporate data encrypted and secured under dbawl?",
+    "faqAnswer3": "All the data retrieved from the banks are encrypted at rest and in transit. Also, all data is hosted in local repository inside KSA as per SAMA and NCA regulations.",
+    "faqQuestion4": "Is dbawl secure to make a payment?",
+    "faqAnswer4": "dbawl provides highest security protocols that includes message encryption and digital signature. Also, we secure your payment though our workflow process, roles and promotions, and OTP mechanism to verify and authenticate your payment.",
+    "faqQuestion5": "Which banks do you support?",
+    "faqAnswer5": "dbawl integrated with multiple banks today including Riyadbank, SNB, ANB, Alrajhi Bank, Alinma, and SABB for different products and services. Nevertheless, we are working with the other local and international banks to be included in our ecosystem soon.",
+    "faqQuestion6": "How do I register with dbawl?",
+    "faqAnswer6": "You can contact our sales team to guide you through the process and share the need documentations for your company onboarding through info@dbatech.sa"
+  },
+  "homeContact": {
+    "title": "Contact us"
+  }
+}
